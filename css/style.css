@@ -1,0 +1,263 @@
+@font-face
+{
+	font-family: Helvetica-Neue-Bold;
+	src: url(../fonts/Helvetica-Neue-Bold.ttf);	
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+	color:#010101;
+}
+/*Header start*/
+header{
+	background-color: #fcdb00;
+	padding: 25px 0;
+}
+.menu ul li a{
+	font-family: Helvetica-Neue-Bold;
+	padding: 0 34px !important;
+	color: #010101 !important;
+	font-size: 22px;
+	transition: 0.2s;
+}
+
+
+.menu ul li a:hover{
+	color: white !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+
+/*Header End*/
+ 
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+
+.inspire{
+	margin-top: 50px;
+}
+
+.inspire h1{
+	font-weight: 700;
+	margin-bottom: 18px;
+	font-size: 32px;
+	
+}
+.inspire h5{
+	font-size: 20px;
+	color: #313841;
+	margin-bottom:18px;
+
+}
+.inspire p{
+	color: #555555;
+    font-size: 15px;
+    margin-bottom:18px;
+
+}
+.inspire ul li i{
+	font-size: 42px;
+	transition: 0.2s;
+	padding-right: 5px;
+}
+
+.inspire ul li i:hover{
+	color: white !important;
+}
+
+.bnnrimg{
+
+}
+
+
+.ci {
+
+    bottom: -75px;
+
+}
+.ci li {
+    border-radius: 50%;
+
+    width: 15px;
+    height: 15px;
+   }
+/*slider stop*/
+
+/*Features start*/
+.features {
+
+	padding-top: 100px;
+	padding-bottom: 120px; 
+
+}
+
+
+.tiny {
+
+	margin-bottom: 50px;
+
+}
+
+
+.tiny h1{
+	
+	font-weight: 700;
+	margin-bottom: 18px;
+	font-size: 32px;
+
+}
+
+.tiny p{
+
+
+	color: #555555;
+    font-size: 19px;
+    margin-bottom:18px;
+
+
+}
+
+.single{
+	margin-bottom: 50px;
+
+}
+
+.icon{
+
+	font-size: 50px;
+
+}
+
+.iconcontent{
+	    margin-top: 5px;
+
+}
+
+
+.iconcontent h2{
+
+	font-weight: 400;
+	margin-bottom: 18px;
+	font-size: 32px;
+
+}
+
+.iconcontent p{
+	color: #989898;
+	word-spacing: 3px;
+
+
+}
+
+.mrbttm{
+	margin-bottom: 20px;
+}
+/*Features stop*/
+/*contack start */
+.contact{
+
+	background-color: #000;
+	padding-top: 100px;
+	padding-bottom: 100px;
+
+
+
+}
+
+.keepintch{
+
+}
+
+.keepintch h1{
+
+	color: #FCDB00;
+	font-weight: 700;
+	margin-bottom: 15px;
+	font-size: 32px;
+
+}
+
+.keepintch p{
+
+	color: #555555;
+    font-size: 20px;
+    margin-bottom:25px;
+} 
+
+.forform{
+	margin-bottom: 60px;
+
+} 
+
+.fromlnth {
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+
+.btn-custom{
+	background-color: #FCDB00;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-weight: 700;
+	font-style: 17px;
+	transition: 0.3s;
+
+
+}
+
+.btn-custom:hover{
+	color: #9a8919
+	}
+
+.keepintch ul li a{
+
+	color: #FCDB00;
+	font-size:45px;
+	transition: 0.3s;
+
+}
+
+.keepintch ul li a:hover{
+	color: #9a8919
+}
+
+.contacttt{
+
+	margin-top:100px;
+	
+
+
+}
+
+.contnt{
+	
+
+}
+
+.contnt ul{
+
+}
+
+.contnt ul li{
+
+}
+
+.contnt li{
+
+}
+
+.contnt ul li a{
+	color: #C5C5C5;
+	text-decoration: none;
+	list-style-type: none;
+
+}
+
+.contnt ul li a:hover{
+	color: white;
+}
+/*contact stop*/
